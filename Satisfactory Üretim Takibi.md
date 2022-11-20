@@ -26,6 +26,8 @@
 
 ## Soğutma Sistemi Organize Sanayi v1
 
+3000 nitrojen gazı kullanımı göz önünde bulundurularak inşa edildi.
+
 ### Soğutucu Sistemi Tesisi
 
 * Üretim (20 Blender)
